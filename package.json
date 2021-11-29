@@ -19,12 +19,9 @@
     "eslint-config-next": "12.0.4",
     "typescript": "4.5.2"
   },
-  "version": "1.0.9",
+  "version": "1.0.10",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "repository": "git://github.com/andreas-groos/npm-test-11-2021.git",
-  "files": [
-    ".next"
-  ]
+  "repository": "git://github.com/andreas-groos/npm-test-11-2021.git"
 }
