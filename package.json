@@ -1,5 +1,5 @@
 {
-  "name": "123-x-ed-eied",
+  "name": "@andreas-groos/npm-test-11-2021",
   "private": false,
   "scripts": {
     "dev": "next dev",
@@ -19,5 +19,8 @@
     "eslint-config-next": "12.0.4",
     "typescript": "4.5.2"
   },
-  "version": "1.0.5"
+  "version": "1.0.6",
+   "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
