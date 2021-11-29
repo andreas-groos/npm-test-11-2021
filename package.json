@@ -1,6 +1,6 @@
 {
-  "name": "npm-package-test",
-  "private": true,
+  "name": "123-x-ed-eied",
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -18,5 +18,6 @@
     "eslint": "7",
     "eslint-config-next": "12.0.4",
     "typescript": "4.5.2"
-  }
+  },
+  "version": "1.0.5"
 }
